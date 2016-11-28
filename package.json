@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "shelljs": "^0.7.5"
+    "lodash": "^4.17.2",
+    "shelljs": "^0.7.5",
+    "xlsx": "^0.8.0"
   }
 }
